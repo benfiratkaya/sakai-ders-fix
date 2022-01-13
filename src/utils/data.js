@@ -29,7 +29,7 @@ export const data = [
         name: 'Hafta 13',
         video: "https://scalelite.deu.edu.tr/presentation/16711084ebddb4479ef553bea744191ea2c237e2-1640859005979/deskshare/deskshare.webm",
         audio: "https://scalelite.deu.edu.tr/presentation/16711084ebddb4479ef553bea744191ea2c237e2-1640859005979/video/webcams.webm",
-        delay: 15
+        delay: 6
       },
       {
         id: 'bil-2017-14',
